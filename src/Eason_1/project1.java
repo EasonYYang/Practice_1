@@ -1,4 +1,5 @@
 /*
+	Main code: using customized class
 	Version:	v1.0.0
 	Date:		2019-5-8
 	Author:		Yichen(Eason) Yang
