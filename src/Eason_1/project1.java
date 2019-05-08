@@ -1,3 +1,8 @@
+/*
+	Version:	v1.0.0
+	Date:		2019-5-8
+	Author:		Yichen(Eason) Yang
+*/
 package Eason_1;
 import Eason_1.Coordinate;
 import Eason_1.vector;
